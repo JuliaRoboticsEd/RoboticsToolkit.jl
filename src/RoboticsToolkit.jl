@@ -7,7 +7,6 @@ export MobilePlatforms
 export Navigation
 export Localization
 
-
 # includes
 include("SpatialMaths.jl")
 include("SerialManipulators.jl")
